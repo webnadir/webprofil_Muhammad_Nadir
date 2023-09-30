@@ -1,0 +1,36 @@
+/* Gaya CSS yang dipisahkan */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210612/pngtree-luxury-black-and-golden-metallic-web-banner-vector-design-image_729544.jpg);
+    margin: 0;
+    padding: 0;
+}
+header {
+    color: #d1a61a;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 36px;
+}
+.portfolio-item {
+    text-align: center;
+}
+h2 {
+    font-size: 25px;
+    padding: 20;
+}
+.portfolio-item {
+    margin: 20px 0;
+}
+.contact {
+    text-align: center;
+    margin-top: 30px;
+}
